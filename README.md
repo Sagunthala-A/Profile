@@ -1,6 +1,6 @@
 <h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>I'm Sagunthala</h1> 
 
-
+<br>
 ## :woman_technologist: About Me 
 🚀 I'm a passionate 👩‍💻 Frontend developer.
 🌆 I'm From Chennai.
