@@ -1,4 +1,4 @@
-<h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sagunthala</h1>
+#<h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sagunthala</h1>
 I'm a passionate <strong>Frontend developer</strong> from <strong>Chennai</strong> with a love for <strong>web development</strong>.<br>
 
 ### :woman_technologist: About Me 
@@ -42,7 +42,7 @@ I'm a passionate <strong>Frontend developer</strong> from <strong>Chennai</stron
     <a href="">
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
     </a>
-    <a href="href="mailto:sagunthala9925@gmail.com"">
+    <a href="mailto:sagunthala9925@gmail.com">
         <img src="https://img.shields.io/badge/Email-Me-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com" alt="Gmail"/>
     </a>
 </p>
