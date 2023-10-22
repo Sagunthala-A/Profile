@@ -1,29 +1,5 @@
 # Profile
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name's GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
-
-        h1 {
-            color: #6e5494;
-        }
-
-        p {
-            color: #333;
-        }
-
-        /* Add your custom CSS styles here */
-
-    </style>
-</head>
 <body>
     <h1>Hello, I'm Your Name 👋</h1>
     <p>I'm a passionate <strong>software developer</strong> from <strong>Your Location</strong> with a love for <strong>coding</strong> and <strong>open source</strong>. I'm currently working at <strong>Your Current Job/Project</strong> and building amazing web applications.</p>
@@ -66,6 +42,11 @@
 
 # 💫 About Me:
 I'm currently learning MERN stack development
+  🌱 I'm currently learning everything I can about web development.<br>
+        💬 Ask me about JavaScript, React, and Node.js.<br>
+        📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
+        😄 Pronouns: He/Him<br>
+        ⚡ Fun fact: I'm an avid coffee enthusiast.
 
 
 # 💻 Tech Stack:
