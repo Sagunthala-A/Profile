@@ -1,5 +1,5 @@
 <h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sagunthala</h1>
-I'm a passionate <strong>Frontend developer</strong> from <strong>Chennai</strong> with a love for <strong>web development</strong>.
+<p>I'm a passionate <strong>Frontend developer</strong> from <strong>Chennai</strong> with a love for <strong>web development</strong>.</p>
 
 <br>
 
