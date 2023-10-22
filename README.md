@@ -2,7 +2,7 @@
 
 
 ## :woman_technologist: About Me 
-🚀 I'm a passionate 👩‍💻Frontend developer from Chennai with a love for web development. 
+     🚀 I'm a passionate 👩‍💻Frontend developer from Chennai with a love for web development. 
 🌱 I'm currently learning MERN Stack development
 💬 Ask me about HTML,CSS,JavaScript
 📫 How to reach me: sagunthala9925@gmail.com
