@@ -1,16 +1,25 @@
 # Hello, I'm Sagunthala 👋
 
 # 💫 About Me:
-I'm a passionate <strong>software developer</strong> from <strong>Your Location</strong> with a love for <strong>coding</strong> and <strong>open source</strong>.
+I'm a passionate <strong>software developer</strong> from <strong>Chennai</strong> with a love for <strong>coding</strong>.<br>
 🌱 I'm currently learning MERN stack development<br>
 💬 Ask me about JavaScript, React <br>
-📫 How to reach me: <a href="mailto:sagunthala9925@gmail.com"></a><br>
+📫 How to reach me: <a href="mailto:sagunthala9925@gmail.com">Mail</a><br>
+<ahref="mailto:sagunthala9925@gmail.com">Mail me</a>
 😄 Pronouns: She/Her<br>
 🎮 Fun fact: I'm an enthusiastic gamer. I enjoy playing games whether I win or lose. Playing games helps me relax and clear my mind. I especially cherish the moments when I play with my brother.
 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sagunthala-A&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sagunthala-A&theme=nightowl&hide_border=true)<br/>
