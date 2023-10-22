@@ -1,11 +1,10 @@
 # Hello, I'm Sagunthala 👋
+  <h1>I'm a passionate <strong>Frontend developer</strong> from <strong>Chennai</strong> with a love for <strong>web development</strong></h1>.<br>
 
 # 💫 About Me:
-I'm a passionate <strong>software developer</strong> from <strong>Chennai</strong> with a love for <strong>coding</strong>.<br>
-🌱 I'm currently learning MERN stack development<br>
-💬 Ask me about JavaScript, React <br>
+🌱 I'm currently learning <strong>MERN Stack</strong> development<br>
+💬 Ask me about JavaScript <br>
 📫 How to reach me: <a href="mailto:sagunthala9925@gmail.com">sagunthala9925@gmail.com</a><br>
-
 😄 Pronouns: She/Her<br>
 🎮 Fun fact: I'm an enthusiastic gamer. I enjoy playing games whether I win or lose. Playing games helps me relax and clear my mind. I especially cherish the moments when I play with my brother.
 
