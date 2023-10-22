@@ -2,6 +2,13 @@
 
 <br>
 ### :woman_technologist: About Me 
+🚀 I'm a passionate 👩‍💻Frontend developer from Chennai with a love for web development. 
+🌱 I'm currently learning MERN Stack development
+💬 Ask me about HTML,CSS,JavaScript
+📫 How to reach me: sagunthala9925@gmail.com
+😄 Pronouns: She/Her
+🎮 Fun fact: I'm an enthusiastic gamer. I enjoy playing games whether I win or lose. Playing games helps me relax and clear my mind. I especially cherish the moments when I play with my brother.
+
  🚀 I'm a passionate 👩‍💻 Frontend developer.
  🌆 I'm From Chennai.
  🌱 I'm currently learning MERN Stack development.
@@ -59,7 +66,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sagunthala-A&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
 
 
 
