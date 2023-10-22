@@ -1,16 +1,18 @@
-#<h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>I'm Sagunthala</h1> 
-  I'm a passionate <strong>Frontend developer</strong> from <strong>Chennai</strong> with a love for <strong>web development</strong>.
+<h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>I'm Sagunthala</h1> 
 
 <br>
 
 ## :woman_technologist: About Me 
-🚀 I'm a passionate 👩‍💻Frontend developer from Chennai with a love for web development.
-🌱 I'm currently learning <strong>MERN Stack</strong> development<br>
-💬 Ask me about HTML,CSS,JavaScript <br>
-📫 How to reach me: <a href="mailto:sagunthala9925@gmail.com">sagunthala9925@gmail.com</a><br>
-😄 Pronouns: She/Her<br>
+🚀 I'm a passionate 👩‍💻 Frontend developer.
+🌆 I'm From Chennai.
+🌱 I'm currently learning MERN Stack development.
+💬 Ask me about HTML, CSS, JavaScript.
+📧 How to reach me: sagunthala9925@gmail.com.
+😄 Pronouns: She/Her.
 🎮 Fun fact: I'm an enthusiastic gamer. I enjoy playing games whether I win or lose. 
-    Playing games helps me relax and clear my mind. I especially cherish the moments when I play with my brother.
+   Playing games helps me relax and clear my mind. I especially cherish the moments when I play with my brother.
+
+    
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sagunthala-A&icon=5&color=3)](https://visitcount.itsvg.in)
