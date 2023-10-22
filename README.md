@@ -1,14 +1,14 @@
 <h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>I'm Sagunthala</h1> 
 
 <br>
-## :woman_technologist: About Me 
-🚀 I'm a passionate 👩‍💻 Frontend developer.
-🌆 I'm From Chennai.
-🌱 I'm currently learning MERN Stack development.
-💬 Ask me about HTML, CSS, JavaScript.
-📧 How to reach me: sagunthala9925@gmail.com.
-😄 Pronouns: She/Her.
-🎮 Fun fact: I'm an enthusiastic gamer. I enjoy playing games whether I win or lose. 
+### :woman_technologist: About Me 
+ 🚀 I'm a passionate 👩‍💻 Frontend developer.
+ 🌆 I'm From Chennai.
+ 🌱 I'm currently learning MERN Stack development.
+ 💬 Ask me about HTML, CSS, JavaScript.
+ 📧 How to reach me: <a href="mailto:sagunthala9925@gmail.com">sagunthala9925@gmail.com</a>
+ 😄 Pronouns: She/Her.
+ 🎮 Fun fact: I'm an enthusiastic gamer. I enjoy playing games whether I win or lose. 
    Playing games helps me relax and clear my mind. I especially cherish the moments when I play with my brother.
 
     
