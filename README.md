@@ -1,22 +1,66 @@
 # Profile
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name's GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        h1 {
+            color: #6e5494;
+        }
+
+        p {
+            color: #333;
+        }
+
+        /* Add your custom CSS styles here */
+
+    </style>
+</head>
+<body>
+    <h1>Hello, I'm Your Name 👋</h1>
+    <p>I'm a passionate <strong>software developer</strong> from <strong>Your Location</strong> with a love for <strong>coding</strong> and <strong>open source</strong>. I'm currently working at <strong>Your Current Job/Project</strong> and building amazing web applications.</p>
+
+    <h2>About Me</h2>
+    <p>
+        🌱 I'm currently learning everything I can about web development.<br>
+        💬 Ask me about JavaScript, React, and Node.js.<br>
+        📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
+        😄 Pronouns: He/Him<br>
+        ⚡ Fun fact: I'm an avid coffee enthusiast.
+    </p>
+
+    <h2>Languages and Tools</h2>
+    <p>
+        JavaScript, React, Node.js<br>
+        HTML, CSS, Sass<br>
+        Git, GitHub
+        <!-- Add more as needed -->
+    </p>
+
+    <h2>GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername" alt="GitHub Stats">
+    
+    <h2>Connect with Me</h2>
+    <p>
+        <a href="https://www.linkedin.com/in/yourlinkedinprofile">LinkedIn</a><br>
+        <a href="https://twitter.com/yourtwitterprofile">Twitter</a><br>
+        <a href="https://www.yourwebsite.com">Personal Website</a>
+    </p>
+</body>
+</html>
+
+
+
+
+
 
 
 
