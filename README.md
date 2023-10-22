@@ -3,7 +3,7 @@ I'm a passionate <strong>Frontend developer</strong> from <strong>Chennai</stron
 
 # 💫 About Me:
 🌱 I'm currently learning <strong>MERN Stack</strong> development<br>
-💬 Ask me about JavaScript <br>
+💬 Ask me about HTML,CSS,JavaScript <br>
 📫 How to reach me: <a href="mailto:sagunthala9925@gmail.com">sagunthala9925@gmail.com</a><br>
 😄 Pronouns: She/Her<br>
 🎮 Fun fact: I'm an enthusiastic gamer. I enjoy playing games whether I win or lose. Playing games helps me relax and clear my mind. I especially cherish the moments when I play with my brother.
