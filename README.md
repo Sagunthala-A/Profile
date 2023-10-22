@@ -1,5 +1,5 @@
 # Hello, I'm Sagunthala 👋
-  <h1>I'm a passionate <strong>Frontend developer</strong> from <strong>Chennai</strong> with a love for <strong>web development</strong></h1>.<br>
+  <h6>I'm a passionate <strong>Frontend developer</strong> from <strong>Chennai</strong> with a love for <strong>web development</strong></h6>.<br>
 
 # 💫 About Me:
 🌱 I'm currently learning <strong>MERN Stack</strong> development<br>
