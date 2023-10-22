@@ -1,7 +1,7 @@
 <h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>I'm Sagunthala</h1> 
 
-<br>
-### :woman_technologist: About Me 
+
+## :woman_technologist: About Me 
 🚀 I'm a passionate 👩‍💻Frontend developer from Chennai with a love for web development. 
 🌱 I'm currently learning MERN Stack development
 💬 Ask me about HTML,CSS,JavaScript
