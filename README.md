@@ -1,52 +1,12 @@
-# Profile
-
-<body>
-    <h1>Hello, I'm Your Name 👋</h1>
-    <p>I'm a passionate <strong>software developer</strong> from <strong>Your Location</strong> with a love for <strong>coding</strong> and <strong>open source</strong>. I'm currently working at <strong>Your Current Job/Project</strong> and building amazing web applications.</p>
-
-    <h2>About Me</h2>
-    <p>
-        🌱 I'm currently learning everything I can about web development.<br>
-        💬 Ask me about JavaScript, React, and Node.js.<br>
-        📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
-        😄 Pronouns: He/Him<br>
-        ⚡ Fun fact: I'm an avid coffee enthusiast.
-    </p>
-
-    <h2>Languages and Tools</h2>
-    <p>
-        JavaScript, React, Node.js<br>
-        HTML, CSS, Sass<br>
-        Git, GitHub
-        <!-- Add more as needed -->
-    </p>
-
-    <h2>GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername" alt="GitHub Stats">
-    
-    <h2>Connect with Me</h2>
-    <p>
-        <a href="https://www.linkedin.com/in/yourlinkedinprofile">LinkedIn</a><br>
-        <a href="https://twitter.com/yourtwitterprofile">Twitter</a><br>
-        <a href="https://www.yourwebsite.com">Personal Website</a>
-    </p>
-</body>
-</html>
-
-
-
-
-
-
-
+# Hello, I'm Sagunthala 👋
 
 # 💫 About Me:
-I'm currently learning MERN stack development
-  🌱 I'm currently learning everything I can about web development.<br>
-        💬 Ask me about JavaScript, React, and Node.js.<br>
-        📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
-        😄 Pronouns: He/Him<br>
-        ⚡ Fun fact: I'm an avid coffee enthusiast.
+I'm a passionate <strong>software developer</strong> from <strong>Your Location</strong> with a love for <strong>coding</strong> and <strong>open source</strong>.
+🌱 I'm currently learning MERN stack development<br>
+💬 Ask me about JavaScript, React <br>
+📫 How to reach me: <a href="mailto:sagunthala9925@gmail.com"></a><br>
+😄 Pronouns: She/Her<br>
+🎮 Fun fact: I'm an enthusiastic gamer. I enjoy playing games whether I win or lose. Playing games helps me relax and clear my mind. I especially cherish the moments when I play with my brother.
 
 
 # 💻 Tech Stack:
