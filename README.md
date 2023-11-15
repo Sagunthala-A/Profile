@@ -18,6 +18,7 @@
    
 [![](https://visitcount.itsvg.in/api?id=Sagunthala-A&icon=5&color=3)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=Sagunthala-A&icon=5&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Sagunthala-A)
 
 
 ## :hammer_and_wrench: Languages and Tools 
