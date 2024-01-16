@@ -11,9 +11,6 @@
  😄 Pronouns: She/Her.<br/>
  🎮 Fun fact: I'm an enthusiastic gamer. I enjoy playing games whether I win or lose,as playing games helps me relax and clear my mind.<br/>
 
-    
-
-[![](https://visitcount.itsvg.in/api?id=Sagunthala-A&icon=5&color=3)](https://visitcount.itsvg.in)
    <p>Happy to see you in here !😊</p>
    
 [![](https://visitcount.itsvg.in/api?id=Sagunthala-A&icon=5&color=3)](https://visitcount.itsvg.in)
