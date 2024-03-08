@@ -6,8 +6,9 @@
  🚀 I'm a passionate 👩‍💻 Frontend developer.<br/>
  🌆 I'm From Chennai.<br/>
  🌱 I'm currently learning MERN Stack development.<br/>
- 💬 Ask me about HTML, CSS, JavaScript.<br/>
+ 💬 Ask me about HTML, CSS, JavaScript, ReactJS.<br/>
  📧 How to reach me: <a href="mailto:sagunthala9925@gmail.com">sagunthala9925@gmail.com</a><br/>
+ 👩‍💻 Visit my portfolio site <a href="https://sagunthala-a-portfolio.vercel.app/" target="_blank">Sagunthala Portfolio</a><br/>
  😄 Pronouns: She/Her.<br/>
  🎮 Fun fact: I'm an enthusiastic gamer. I enjoy playing games whether I win or lose,as playing games helps me relax and clear my mind.<br/>
 
